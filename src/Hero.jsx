@@ -88,7 +88,7 @@ const Hero = () => {
           </a> */}
 
           <a
-            href="#contact"
+            href="mailto:mulianadina125@gmail.com"
             className="inline-flex items-center gap-2 rounded-lg border border-slate-700 bg-slate-900/50 px-5 py-3 text-sm font-medium text-slate-200 hover:border-slate-600 hover:bg-slate-800/70 focus:outline-none focus:ring-2 focus:ring-slate-600"
           >
             Hubungi Saya
